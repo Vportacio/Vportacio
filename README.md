@@ -1,3 +1,3 @@
 - 👋 Vinicius Portácio
 - 👀 Mobile Developer
-- 🌱 Kotlin, Java, Dart
+- 🌱 Kotlin, Java, C++
